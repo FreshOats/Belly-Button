@@ -100,12 +100,12 @@ function buildCharts(sample) {
     
     // // 9. Create the layout for the bar chart. 
     var barLayout = {
-      title: { text: "Top Ten Bacterial Cultures", font: { size: 24} }, 
+      title: { text: "Top Ten Bacterial Cultures", font: { size: 22} }, 
       margin: {
         l: 100,
         r: 50,
         t: 100,
-        b: 100
+        b: 50
       },
       // width: 500,
       // height: 600
@@ -189,7 +189,7 @@ function buildCharts(sample) {
     // 5. Create the layout for the gauge chart.
     var gaugeLayout = {
       title: "Belly Button Washing Frequency",
-      font: { size: 18 },
+      font: { size: 16 },
       // width: 500,
       // height: 500, 
       margins: {
