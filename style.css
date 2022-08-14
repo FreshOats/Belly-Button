@@ -1,0 +1,10 @@
+body{
+    font-family: 'Lucida Sans'; 
+    background-color: azure;
+}
+
+.jumbotron {
+    background-color:rgb(220, 255, 255);
+    background-size: 100% 100%;
+
+}
